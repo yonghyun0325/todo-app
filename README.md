@@ -21,8 +21,8 @@
 
 ✅ TodoApp.jsx는 To-Do List의 메인 컴포넌트이며, 할 일 추가, 삭제를 관리합니다.
 
-✅ useState → 할 일 목록과 입력값을 관리
-✅ useEffect → 백엔드 API에서 데이터를 불러올 때 사용
+✅ useState → 할 일 목록과 입력값을 관리<br>
+✅ useEffect → 백엔드 API에서 데이터를 불러올 때 사용<br>
 ✅ fetch API → Spring Boot API와 통신
 
 📌 기능 요약
