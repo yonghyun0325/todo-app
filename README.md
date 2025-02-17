@@ -16,7 +16,7 @@
 ✅ 정상적으로 실행되면 http://localhost:3000 에서 To-Do List 화면을 볼 수 있습니다.
 
 # 3. 주력으로 사용한 컴포넌트에대한 설명 및 사용 이유 기입
-1️⃣ React 컴포넌트
+1️⃣ React 컴포넌트<br>
 📌 TodoApp.jsx
 
 ✅ TodoApp.jsx는 To-Do List의 메인 컴포넌트이며, 할 일 추가, 삭제를 관리합니다.
